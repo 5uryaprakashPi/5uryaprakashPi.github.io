@@ -1,6 +1,11 @@
+**Title Synonyms of our application**
+## Chat application using EtherJs
+## Messenger Application using EtherJs
+## MailBox Application using EtherJs
+## event notification or real time update when new message is received
 
-
-**How to use this app using sepolia network only**
+**Use this app using sepolia network only**
+**Use this app using sepolia network only**
 # Make sure metamask is installed in your browser(use latest chrome/edge)
 # Goto this page https://5uryaprakashpi.github.io/chatbox.html
 # If you are new then new registration form will be show in the page like the below image
