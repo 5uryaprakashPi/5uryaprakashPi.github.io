@@ -2,7 +2,7 @@
 ### Chat application using EtherJs
 ### Messenger Application using EtherJs
 ### MailBox Application using EtherJs
-### event notification or real time update when new message is received
+### Event notification or real time update when new message is received
 
 
 **Use this app using sepolia network only**
@@ -14,9 +14,9 @@
 ## metamask will ask for login, here provide credentials and select an account that has some sepolia eth
 ## If you know your friend userName who has registered already, then you can start sending using compose form given below
 ![alt](https://github.com/5uryaprakashPi/5uryaprakashPi.github.io/blob/main/compose.png)
-## Messages are shown like below
+## Messages are shown like below like an order list
 ![alt](https://github.com/5uryaprakashPi/5uryaprakashPi.github.io/blob/main/messeges.png)
-## click on messege to see the message content
+## click on list item of the user to see the message content
 ![alt](https://github.com/5uryaprakashPi/5uryaprakashPi.github.io/blob/main/clickToSeeMessage.png)
 
 
